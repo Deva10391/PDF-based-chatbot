@@ -1,0 +1,6 @@
+!**/*.pdf
+!**/*.png
+node_modules/
+.next/
+!**/*cmds.txt
+myenv_01/
